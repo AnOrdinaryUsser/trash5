@@ -25,13 +25,15 @@ Each folder contains labeled images corresponding to its class. Images are in `.
 
 ## 📊 Statistics
 
-| Class   | Number of Images |
-|---------|------------------|
-| Metal   | XXXX             |
-| Plastic | XXXX             |
-| Paper   | XXXX             |
-| Organic | XXXX             |
-| Glass   | XXXX             |
+| Class   | Total Annotations | Training | Validation | Test |
+|---------|--------------------|----------|------------|------|
+| Metal   | 2,816              | 2,129    | 222        | 465  |
+| Organic | 770                | 499      | 136        | 135  |
+| Glass   | 326                | 226      | 76         | 24   |
+| Paper   | 591                | 479      | 76         | 36   |
+| Plastic | 369                | 248      | 90         | 31   |
+| **Total**  | **4,872**          | **3,581**  | **600**      | **691** |
+
 
 ---
 
