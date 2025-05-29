@@ -14,11 +14,10 @@ This dataset is ideal for projects involving **machine learning**, **computer vi
 
 ## 📂 Dataset Structure
 
-- 🥫 **Metal**  
-- 🧴 **Plastic**  
-- 📄 **Paper**  
-- 🍃 **Organic**  
-- 🧪 **Glass**
+- **data.yaml**  
+- **Test/**  
+- **Train/**  
+- **Valid/**  
 
 Each folder contains labeled images corresponding to its class. Images are in `.jpg` or `.png` format and have unique filenames.
 
